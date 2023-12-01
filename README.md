@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @elkulakova
+- 👀 I’m interested in figure skating
+- 🌱 I’m currently learning programming
