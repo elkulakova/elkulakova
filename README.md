@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @elkulakova
-- 👀 I’m interested in figure skating
-- 🌱 I’m currently learning programming
+- 👋 Hi, I’m elisaveta kulakova
+- 👀 interested in figure skating
+- 🌱 currently learning programming
+- 👾 itmo student
+- 🫆 artificial intelligence & language models educational program, faculty of applied informatics
